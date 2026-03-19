@@ -17,9 +17,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Connect with me: 
-[<img align="left" alt="dmokonnen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+### Connect with me:
+<a href="https://www.linkedin.com/in/demisew-mokonnen" target="_blank">
+  <img align="left" alt="Demisew Mokonnen | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="margin-right: 10px;" />
+</a>
+<a href="mailto:demisewt@gmail.com" target="_blank">
+  <img align="left" alt="Demisew Mokonnen | Email" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<br />
 <br />
 
 ### Languages and Tools:
